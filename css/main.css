@@ -165,6 +165,7 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 
 .bg-1{
   background-image: url('../images/map.png');
+  background-size: cover;
 }
 
 /* Header */
